@@ -1,0 +1,5 @@
+NIHAO_raw/
+*_stars.fits
+*_gas.fits
+.DS_Store
+.ipynb_checkpoints/
