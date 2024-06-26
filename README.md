@@ -1,7 +1,7 @@
-# preparing_NIHAO : Preparing NIHAO Simulation Output for Galactic Astronomy
+# Preparing NIHAO Simulation Output for Galactic Astronomy
 
-**Github Repository:** https://www.github.com/svenbuder/preparing_NIHAO
-**Author:** Sven Buder (ANU, sven.buder@anu.edu.au)
+**Github Repository:** https://www.github.com/svenbuder/preparing_NIHAO  
+**Author:** Sven Buder (ANU, sven.buder@anu.edu.au) for this Github Repository. Simulation data is provided by NIHAO & Tobias Buck!
 
 #### Simulation Data (cite these if you use the simulations!):
 NIHAO-UHD simulations, see:  
