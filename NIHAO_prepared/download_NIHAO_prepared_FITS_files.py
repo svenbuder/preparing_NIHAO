@@ -1,10 +1,10 @@
 import os
 
 files = [
-'g8.26e11_extensive_gas.fits',
-'g8.26e11_extensive_stars.fits',
-'g8.26e11_pilot_gas.fits',
-'g8.26e11_pilot_stars.fits'
+'NIHAO_g8.26e11_extensive_gas.fits',
+'NIHAO_g8.26e11_extensive_stars.fits',
+'NIHAO_g8.26e11_pilot_gas.fits',
+'NIHAO_g8.26e11_pilot_stars.fits'
 ]
 
 for file in files:
